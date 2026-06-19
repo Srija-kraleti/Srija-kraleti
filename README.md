@@ -175,8 +175,8 @@ Power BI, Power Query, DAX, Data Visualization, ETL, Business Intelligence
 
 - 📧 Email: srijakraleti@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/kameswari-srija-kraleti/
-- 💻 GitHub: (https://github.com/Srija-kraleti)
-- 🧩 LeetCode: (https://leetcode.com/u/kameswarisrija_kraleti/)
+- 💻 GitHub: https://github.com/Srija-kraleti
+- 🧩 LeetCode: https://leetcode.com/u/kameswarisrija_kraleti/
 - 🌐 Portfolio: https://srija-kraleti.github.io/Portfolio/
 
 ---

@@ -170,25 +170,14 @@ Power BI, Power Query, DAX, Data Visualization, ETL, Business Intelligence
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 - 📧 Email: srijakraleti@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/kameswari-srija-kraleti/
-- 💻 GitHub: [Your GitHub Profile](https://github.com/Srija-kraleti)
-- 🧩 LeetCode: [Your LeetCode Profile](https://leetcode.com/u/kameswarisrija_kraleti/)
-- 🌐 Portfolio: [Your Portfolio Website] (https://srija-kraleti.github.io/Portfolio/)
+- 💻 GitHub: (https://github.com/Srija-kraleti)
+- 🧩 LeetCode: (https://leetcode.com/u/kameswarisrija_kraleti/)
+- 🌐 Portfolio: https://srija-kraleti.github.io/Portfolio/
 
 ---
 
